@@ -13,7 +13,7 @@
   <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <br/><br/>
   - 📚 Estou estudando HTML, CSS, JS ... <br/>
-  - 📧 Contate-me no email: joao.v.n.sabino@gmail.com
+  <a href="mailto:joao.v.n.sabino@gmail.com"> - 📧 Contate-me no email: joao.v.n.sabino@gmail.com</a>
 </div>
   
   ##
