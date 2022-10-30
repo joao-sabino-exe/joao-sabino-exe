@@ -26,5 +26,6 @@
   <a href = "mailto:joao.v.n.sabino@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joao-vitor-nascimento-sabino-93a6a6210/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
+ <img src="https://user-images.githubusercontent.com/96800895/198895729-ddf2dfc0-b9f6-4a4f-83bc-3c32d297330d.gif"/>
  
 </div>
